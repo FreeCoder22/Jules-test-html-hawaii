@@ -1,0 +1,24 @@
+{
+  demo-it-business.html {
+    hero-section Hero (Banner),
+    about-promise À propos – Notre promesse,
+    expertise-haas Développement & Azure (HaaS),
+    expertise-migration Migration & Infrastructure Azure,
+    expertise-ia IA & Innovation,
+    expertise-data-bi Data & Power BI,
+    expertise-power-platform Power Platform,
+    methodology Méthodologie éprouvée,
+    case-studies Réalisations clients,
+    testimonials Témoignages,
+    contact Contactez-nous
+  },
+  demo-it-business-about.html {
+    promise-core 💡 Notre Promesse,
+    three-commitments 💡 Trois engagements clés,
+    green-it Notre engagement Green IT,
+    project-call Parlons de votre projet
+  },
+  demo-it-business-services.html {
+    haas-overview 🚀 Développement & Azure (HaaS) – Expertise
+  }
+}
