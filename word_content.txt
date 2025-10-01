@@ -1,0 +1,173 @@
+
+
+🏠 Page d'accueil
+
+SECTION :  Hero (Banner)
+PAGE : demo-it-business.html
+CONTENT :
+Votre avenir digital commence ici
+Hawaii accompagne les PME dans la création d'applications métier intelligentes, évolutives et parfaitement intégrées à Microsoft Azure. De l'idée au déploiement, nous mettons l'innovation à votre portée.
+BUTONS:
+[Découvrez nos expertises] |   [Contactez-nous]
+
+
+
+SECTION SÉMANTIQUE (semantic_section) : À propos – Notre promesse
+PAGE CIBLE (target_page) : demo-it-business.html
+
+TITRE PRINCIPAL (h2_title) : Un partenaire technologique fiable depuis 2010
+
+PARAGRAPHE CORPS (description_body) :
+Spécialistes du développement sur-mesure, de la migration vers Azure et de l'intégration de l'IA, nous vous aidons à tirer parti de la puissance du Cloud Microsoft avec sérénité.
+
+LISTE D'AVANTAGES (bullet_points_list) :
+• Expertise Azure reconnue (Partenaire Microsoft)
+• Orientation résultats : nous livrons des solutions fonctionnelles et à forte valeur métier
+• Accompagnement humain : proximité, réactivité et pédagogie
+• Engagement Green IT : nous veillons à réduire l’impact environnemental de votre infrastructure IT
+ 
+BOUTON (buttons) :
+[En savoir plus] | [Rôle de l'URL, ex: learn_more_about_us]
+
+SECTION SÉMANTIQUE (semantic_section) : Nos Expertises
+PAGE CIBLE (target_page) : demo-it-business.html
+
+TITRE PRINCIPAL (h2_title) : Nos Expertises
+
+ÉLÉMENTS D'EXPERTISE (expertise_items) :
+
+--- DÉBUT EXPERTISE ---
+TITRE (item_title) : Développement & Azure (HaaS)
+DESCRIPTION (item_description) : Applications métier sur-mesure, hébergées sur Azure en mode HaaS (Hawaii as a Service).
+--- FIN EXPERTISE ---
+
+--- DÉBUT EXPERTISE ---
+TITRE (item_title) : Migration & Infrastructure Azure
+DESCRIPTION (item_description) :
+• Migration 1 pour 1 : Transférez facilement vos infrastructures actuelles vers Azure.
+• Refonte PaaS : Profitez pleinement des avantages du Cloud Azure avec une architecture optimisée en PaaS.
+• Création d'infrastructure Azure : Conception et déploiement d'infrastructures cloud robustes, sécurisées et évolutives adaptées à vos besoins.
+• FinOps : Optimisation proactive et continue de vos coûts cloud pour maximiser votre ROI.
+--- FIN EXPERTISE ---
+
+--- DÉBUT EXPERTISE ---
+TITRE (item_title) : IA & Innovation
+DESCRIPTION (item_description) : Intégrer l’intelligence artificielle pour automatiser et optimiser vos processus métier.
+--- FIN EXPERTISE ---
+
+--- DÉBUT EXPERTISE ---
+TITRE (item_title) : Data & Power BI
+DESCRIPTION (item_description) : Visualisez, analysez et exploitez efficacement vos données métier grâce à Power BI. Transformez vos données en informations stratégiques pour piloter efficacement votre activité.
+--- FIN EXPERTISE ---
+
+--- DÉBUT EXPERTISE ---
+TITRE (item_title) : Cybersécurité
+DESCRIPTION (item_description) : Protégez efficacement votre entreprise grâce aux solutions de sécurité avancées de Microsoft : Defender, Sentinel, et Microsoft Entra. Sécurisez vos données, vos utilisateurs et vos applications dans Azure.
+--- FIN EXPERTISE ---
+
+--- DÉBUT EXPERTISE ---
+TITRE (item_title) : Power Platform
+DESCRIPTION (item_description) : Accélérez votre transformation digitale avec Microsoft Power Platform (Power Apps, Power Automate, Power BI, Power Virtual Agents). Créez rapidement des solutions métiers sur mesure.
+--- FIN EXPERTISE ---
+
+BOUTON (buttons) : [Découvrir toutes nos expertises] | [Rôle de l'URL, ex: all_expertises_page]
+
+SECTION SÉMANTIQUE (semantic_section) : Méthodologie Éprouvée
+PAGE CIBLE (target_page) : demo-it-business.html
+    (À ajuster si cette section se trouve sur une autre page)
+
+TITRE PRINCIPAL (h2_title) : Méthodologie éprouvée
+
+PARAGRAPHE (description_body) :
+Une démarche claire, simple et efficace en 4 étapes :
+
+LISTE ORDONNÉE (ordered_steps_list) :
+1. Analyse métier (compréhension profonde des enjeux)
+2. Conception UX/UI (applications intuitives et agréables)
+3. Développement Agile (qualité, évolutivité, robustesse)
+4. Déploiement & Run (sécurité, supervision et support continu)
+ 
+BOUTON (buttons) :
+[Découvrir notre méthodologie] | [Rôle de l'URL, ex: full_methodology_page]
+
+
+  SECTION SÉMANTIQUE (semantic_section) : Réalisations clients
+PAGE CIBLE (target_page) : demo-it-business.html
+    (À ajuster si cette section se trouve sur une autre page)
+
+TITRE PRINCIPAL (h2_title) : Réalisations clients
+
+PARAGRAPHE D'ACCROCHE (description_teaser) :
+Découvrez comment nous avons aidé des PME à transformer leur quotidien grâce à des applications métier modernes et puissantes sur Azure.
+
+BOUTON (buttons) :
+[Voir nos réalisations] | [Rôle de l'URL, ex: portfolio_page]
+
+SECTION SÉMANTIQUE (semantic_section) : Témoignages
+PAGE CIBLE (target_page) : demo-it-business.html
+    (À ajuster si cette section se trouve sur une autre page)
+
+TITRE PRINCIPAL (h2_title) : Témoignages
+
+PARAGRAPHE D'ACCROCHE (description_teaser) :
+Ils nous font confiance : ce que disent nos clients de notre accompagnement.
+
+BOUTON (buttons) :
+[Lire les témoignages] | [Rôle de l'URL, ex: testimonials_page]
+
+SECTION SÉMANTIQUE (semantic_section) : Contactez-nous
+PAGE CIBLE (target_page) : demo-it-business.html
+    (À ajuster si cette section se trouve sur une autre page)
+
+TITRE PRINCIPAL (h2_title) : Contactez-nous
+
+PARAGRAPHE D'ACCROCHE (description_teaser) :
+Prêt à démarrer votre projet ou simplement curieux d’en savoir plus ?
+
+BOUTON (buttons) :
+[Prenez rendez-vous dès maintenant] | [Rôle de l'URL, ex: schedule_meeting]
+
+💡 Notre Promesse
+
+SECTION SÉMANTIQUE (semantic_section) : Notre Promesse - Introduction
+PAGE CIBLE (target_page) : demo-it-business-about.html
+
+TITRE PRINCIPAL (h2_title) : Pourquoi nous faire confiance ?
+
+PARAGRAPHE CORPS (description_body) :
+Chez Hawaii, nous croyons que la technologie doit être un levier puissant au service de vos ambitions métier. Notre engagement est simple : vous permettre de bénéficier des meilleures technologies Microsoft Azure pour accélérer votre croissance et renforcer votre compétitivité.
+
+SECTION SÉMANTIQUE (semantic_section) : Trois engagements clés
+PAGE CIBLE (target_page) : demo-it-business-about.html
+
+TITRE PRINCIPAL (h2_title) : Trois engagements clés
+
+ÉLÉMENTS D'ENGAGEMENT (commitment_items) :
+
+--- DÉBUT ENGAGEMENT ---
+TITRE (item_title) : Expertise & maîtrise technologique
+DESCRIPTION (item_description) : En tant que partenaire officiel de Microsoft depuis 2010, nous disposons d'une expertise certifiée et constamment actualisée. Notre équipe d’experts en développement .NET, Azure et Intelligence Artificielle assure un haut niveau de qualité et d’efficacité à chaque étape de votre projet.
+--- FIN ENGAGEMENT ---
+
+--- DÉBUT ENGAGEMENT ---
+TITRE (item_title) : Innovation pragmatique
+DESCRIPTION (item_description) : L'innovation doit servir un objectif précis : le vôtre. Nous intégrons des technologies avancées telles que l’IA et la Data de manière pertinente, pragmatique et parfaitement alignée avec vos besoins opérationnels.
+--- FIN ENGAGEMENT ---
+
+--- DÉBUT ENGAGEMENT ---
+TITRE (item_title) : Proximité & accompagnement humain
+DESCRIPTION (item_description) : Nous privilégions des relations solides, humaines et transparentes avec chacun de nos clients. Chaque projet bénéficie d’un accompagnement personnalisé et d’un suivi rapproché, pour vous garantir une tranquillité d'esprit totale.
+--- FIN ENGAGEMENT ---
+
+
+SECTION SÉMANTIQUE (semantic_section) : Notre engagement Green IT
+PAGE CIBLE (target_page) : demo-it-business-about.html
+    (À ajuster si cette section se trouve sur une autre page)
+
+TITRE PRINCIPAL (h2_title) : Notre engagement Green IT
+
+PARAGRAPHE CORPS (description_body) :
+Hawaii s’engage activement pour un numérique plus responsable et durable. Nous intégrons systématiquement une réflexion autour de l’impact environnemental dans nos choix techniques et nos architectures Cloud, afin de réduire l’empreinte écologique de vos infrastructures.
+
+SECTION SÉMANTIQUE (semantic_section) : Bénéfices Client PAGE CIBLE (target_page) : demo-it-business-about.html TITRE PRINCIPAL (h2_title) : Ce que cela signifie pour vous LISTE DES BÉNÉFICES (benefits_list) : --- DÉBUT BÉNÉFICE --- TITRE (item_title) : Tranquillité d’esprit DESCRIPTION (item_description) : Des solutions robustes, sécurisées et évolutives --- FIN BÉNÉFICE --- --- DÉBUT BÉNÉFICE --- TITRE (item_title) : Gain de temps DESCRIPTION (item_description) : Une prise en main rapide grâce à une conception UX intuitive --- FIN BÉNÉFICE --- --- DÉBUT BÉNÉFICE --- TITRE (item_title) : Performance métier DESCRIPTION (item_description) : Des outils qui accélèrent et optimisent vos processus --- FIN BÉNÉFICE --- --- DÉBUT BÉNÉFICE --- TITRE (item_title) : Maîtrise budgétaire DESCRIPTION (item_description) : Des coûts transparents et optimisés (approche FinOps) --- FIN BÉNÉFICE ---
+SECTION SÉMANTIQUE (semantic_section) : Appel à l'action (CTA) final PAGE CIBLE (target_page) : demo-it-business-about.html (Peut aussi être dupliqué sur d'autres pages si nécessaire) TITRE PRINCIPAL (h2_title) : Parlons de votre projet PARAGRAPHE D'ACCROCHE (description_teaser) : Vous avez un projet ? Une idée ? Une problématique ? Contactez-nous dès aujourd'hui pour échanger ensemble et découvrir comment Hawaii peut vous accompagner vers une réussite technologique et métier durable. BOUTON (buttons) : [Nous contacter] | [Rôle de l'URL, ex: contact_page]
