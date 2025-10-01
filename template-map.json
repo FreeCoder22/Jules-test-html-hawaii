@@ -1,0 +1,69 @@
+{
+  "pages": [
+    {
+      "target_page": "demo-it-business.html",
+      "sections": [
+        {
+          "semantic_section": "Hero",
+          "content": "Votre avenir digital commence ici\nHawaii accompagne les PME dans la création d'applications métier intelligentes, évolutives et parfaitement intégrées à Microsoft Azure. De l'idée au déploiement, nous mettons l'innovation à votre portée.",
+          "buttons": ["Découvrez nos expertises", "Contactez-nous"]
+        },
+        {
+          "semantic_section": "Notre promesse",
+          "content": "Un partenaire technologique fiable depuis 2010\nSpécialistes du développement sur-mesure, de la migration vers Azure et de l'intégration de l'IA, nous accompagnons les PME dans leur transformation digitale.\n\n- Expertise Azure reconnue (Partenaire Microsoft)\n- Orientation résultats : nous livrons des solutions fonctionnelles et à forte valeur métier\n- Accompagnement humain : proximité, réactivité et pédagogie\n- Engagement Green IT : nous veillons à réduire l’impact environnemental de votre infrastructure IT",
+          "buttons": ["En savoir plus"]
+        },
+        {
+          "semantic_section": "Nos expertises",
+          "content": "Nos expertises\n\nDéveloppement & Azure (HaaS)\nApplications métier sur-mesure, hébergées sur Azure en mode HaaS (Hawaii as a Service).\n\nMigration & Infrastructure Azure\nMigration 1 pour 1, Refonte PaaS, Création d'infrastructure Azure, FinOps.\n\nIA & Innovation\nIntégrer l’intelligence artificielle pour automatiser et optimiser vos processus métier.\n\nData & Power BI\nVisualisez, analysez et exploitez efficacement vos données métier grâce à Power BI.\n\nCybersécurité\nSolutions de sécurité avancées de Microsoft : Defender, Sentinel, Entra.\n\nPower Platform\nCréez rapidement des solutions métiers sur mesure avec Power Platform.",
+          "buttons": ["Découvrir toutes nos expertises"]
+        },
+        {
+          "semantic_section": "Méthodologie",
+          "content": "Méthodologie éprouvée\nUne démarche claire, simple et efficace en 4 étapes :\n\n1. Analyse métier\n2. Conception UX/UI\n3. Développement Agile\n4. Déploiement & Run",
+          "buttons": ["Découvrir notre méthodologie"]
+        },
+        {
+          "semantic_section": "Réalisations",
+          "content": "Réalisations clients\nDécouvrez comment nous avons aidé des PME à transformer leur quotidien grâce à des solutions digitales sur-mesure.",
+          "buttons": ["Voir nos réalisations"]
+        },
+        {
+          "semantic_section": "Témoignages",
+          "content": "Témoignages\nIls nous font confiance : ce que disent nos clients sur leur collaboration avec Hawaii.",
+          "buttons": ["Lire les témoignages"]
+        },
+        {
+          "semantic_section": "Contact",
+          "content": "Contactez-nous\nPrêt à démarrer votre projet ou simplement curieux d’en savoir plus ?",
+          "buttons": ["Prenez rendez-vous dès maintenant"]
+        }
+      ]
+    },
+    {
+      "target_page": "demo-it-business-about.html",
+      "sections": [
+        {
+          "semantic_section": "Introduction",
+          "content": "Pourquoi nous faire confiance ?\nChez Hawaii, nous croyons que la technologie doit être un levier puissant au service de votre métier. Nous mettons notre expertise au service de vos enjeux concrets, avec une approche pragmatique et humaine."
+        },
+        {
+          "semantic_section": "Engagements",
+          "content": "Trois engagements clés\n\nExpertise & maîtrise technologique\nPartenaire officiel de Microsoft depuis 2010, nous maîtrisons l’écosystème Azure et les outils de développement modernes.\n\nInnovation pragmatique\nL'innovation doit servir un objectif précis : le vôtre. Nous intégrons l’IA, la data et les outils low-code là où ils apportent une vraie valeur.\n\nProximité & accompagnement humain\nNous construisons des relations solides, humaines et transparentes. Notre équipe est disponible, réactive et à l’écoute."
+        },
+        {
+          "semantic_section": "Green IT",
+          "content": "Notre engagement Green IT\nNous intégrons systématiquement une réflexion autour de l’impact environnemental de vos projets IT. Choix d’infrastructure, sobriété numérique, optimisation des ressources : chaque projet est une opportunité d’agir."
+        },
+        {
+          "semantic_section": "Bénéfices client",
+          "content": "Ce que cela signifie pour vous\n\nTranquillité d’esprit\nDes solutions robustes, sécurisées et évolutives\n\nGain de temps\nUne prise en main rapide grâce à une conception UX intuitive\n\nPerformance métier\nDes outils qui accélèrent et optimisent vos processus\n\nMaîtrise budgétaire\nDes coûts transparents et optimisés (approche FinOps)"
+        },
+        {
+          "semantic_section": "CTA final",
+          "content": "Parlons de votre projet\nVous avez un projet ? Une idée ? Une problématique ? Discutons-en."
+        }
+      ]
+    }
+  ]
+}
