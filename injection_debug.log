@@ -1,0 +1,51 @@
+  - SUCCESS: Found container for 'Hero (Banner)'. Injecting content.
+  - SUCCESS: Found container for 'À propos – Notre promesse'. Injecting content.
+  - SUCCESS: Found container for 'Nos Expertises'. Injecting content.
+  - SUCCESS: Found container for 'Méthodologie éprouvée'. Injecting content.
+  - SUCCESS: Found container for 'Réalisations clients'. Injecting content.
+  - SUCCESS: Found container for 'Témoignages'. Injecting content.
+  - SUCCESS: Found container for 'Contactez-nous'. Injecting content.
+  - SUCCESS: Found container for 'Pourquoi nous faire confiance ?'. Injecting content.
+  - SUCCESS: Found container for 'Trois engagements clés'. Injecting content.
+  - SUCCESS: Found container for 'Notre engagement Green IT'. Injecting content.
+  - SUCCESS: Found container for 'Ce que cela signifie pour vous'. Injecting content.
+  - SUCCESS: Found container for 'Parlons de votre projet'. Injecting content.
+  - SUCCESS: Found container for 'Applications métier sur-mesure, conçues pour vous'. Injecting content.
+  - SUCCESS: Found container for 'Pourquoi choisir HaaS ?'. Injecting content.
+  - SUCCESS: Found container for 'Nos services inclus :'. Injecting content.
+  - SUCCESS: Found container for 'Engagement FinOps et Green IT'. Injecting content.
+  - SUCCESS: Found container for 'Modèle financier HaaS'. Injecting content.
+  - SUCCESS: Found container for 'Parlons de votre application métier'. Injecting content.
+  - SUCCESS: Found container for 'Une transition maîtrisée vers le Cloud Azure'. Injecting content.
+  - SUCCESS: Found container for 'Nos Approches de Migration'. Injecting content.
+  - SUCCESS: Found container for 'Notre engagement FinOps'. Injecting content.
+  - SUCCESS: Found container for 'Engagement Green IT'. Injecting content.
+  - SUCCESS: Found container for 'Nos services inclus'. Injecting content.
+  - SUCCESS: Found container for 'Exemples de projets réussis'. Injecting content.
+  - SUCCESS: Found container for 'Parlons de votre migration vers Azure'. Injecting content.
+  - SUCCESS: Found container for 'Pourquoi deux formules ?'. Injecting content.
+  - SUCCESS: Found container for 'Besoin d’aide pour choisir ?'. Injecting content.
+  - SUCCESS: Found container for 'Donnez de l'intelligence à vos processus métier'. Injecting content.
+  - SUCCESS: Found container for 'Ce que l'IA peut apporter à votre entreprise'. Injecting content.
+  - SUCCESS: Found container for 'Nos compétences IA au service de vos projets'. Injecting content.
+  - SUCCESS: Found container for 'IA embarquée dans vos applications métier'. Injecting content.
+  - SUCCESS: Found container for 'Quelques cas concrets'. Injecting content.
+  - SUCCESS: Found container for 'Envie de tester le potentiel de l’IA dans votre activité ?'. Injecting content.
+  - SUCCESS: Found container for 'Transformez vos données en décisions éclairées'. Injecting content.
+  - SUCCESS: Found container for 'Pourquoi choisir Power BI avec Hawaii ?'. Injecting content.
+  - SUCCESS: Found container for 'Nos prestations autour de la data'. Injecting content.
+  - SUCCESS: Found container for 'Intégration dans votre écosystème Microsoft'. Injecting content.
+  - SUCCESS: Found container for 'Cas d’usage réels'. Injecting content.
+  - SUCCESS: Found container for 'Une data responsable et maîtrisée'. Injecting content.
+  - SUCCESS: Found container for 'Envie de piloter votre entreprise avec clarté ?'. Injecting content.
+  - SUCCESS: Found container for 'Libérez l’agilité de vos équipes métier'. Injecting content.
+  - SUCCESS: Found container for 'Les 4 piliers de Power Platform'. Injecting content.
+  - SUCCESS: Found container for 'Ce que nous apportons'. Injecting content.
+  - SUCCESS: Found container for 'Cas concrets'. Injecting content.
+    - WARNING: CSS selector 'section.pt-0 .row.align-items-center.justify-content-center' for 'Une transformation utile, sobre et maîtrisée' not found in demo-it-business-services-details-power-platform.html. Skipping.
+  - SUCCESS: Found container for 'Une idée d’application ? Un processus à automatiser ?'. Injecting content.
+  - SUCCESS: Found container for 'Des interfaces pensées pour l’utilisateur'. Injecting content.
+  - SUCCESS: Found container for 'Notre approche UX/UI'. Injecting content.
+  - SUCCESS: Found container for 'Ce que nous livrons'. Injecting content.
+  - SUCCESS: Found container for 'Un design utile, sobre et durable'. Injecting content.
+  - SUCCESS: Found container for 'Prêt à concevoir une application que vos utilisateurs vont adorer ?'. Injecting content.

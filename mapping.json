@@ -1,0 +1,115 @@
+[
+  {
+    "page": "demo-it-business.html",
+    "mappings": [
+      { "title": "Hero (Banner)", "selector": "section.cover-background.full-screen .col-xl-6" },
+      { "title": "À propos – Notre promesse", "selector": ".row.mb-10.align-items-center .col-xl-5" },
+      { "title": "Nos Expertises", "selector": "section.overflow-hidden.bg-very-light-gray" },
+      { "title": "Méthodologie éprouvée", "selector": "section.bg-dark-gray" },
+      { "title": "Réalisations clients", "selector": "section.p-0.bg-midnight-blue + section" },
+      { "title": "Témoignages", "selector": "section.p-0.bg-midnight-blue + section + section" },
+      { "title": "Contactez-nous", "selector": "section.cover-background.one-third-screen" }
+    ]
+  },
+  {
+    "page": "demo-it-business-about.html",
+    "mappings": [
+      { "title": "Pourquoi nous faire confiance ?", "selector": ".col-xl-5.offset-xl-1.col-lg-6" },
+      { "title": "Trois engagements clés", "selector": ".counter-style-04" },
+      { "title": "Notre engagement Green IT", "selector": "section.bg-very-light-gray .container-fluid" },
+      { "title": "Ce que cela signifie pour vous", "selector": "section[style*='images/demo-it-business-about-bg2.jpg']" },
+      { "title": "Parlons de votre projet", "selector": "footer" }
+    ]
+  },
+  {
+    "page": "demo-it-business-services-details-dev-azure.html",
+    "mappings": [
+        { "title": "Applications métier sur-mesure, conçues pour vous", "selector": "section.cover-background .page-title-extra-large"},
+        { "title": "Pourquoi choisir HaaS ?", "selector": "section.pt-3 .col-xl-5.offset-xl-1"},
+        { "title": "Nos services inclus :", "selector": "#accordion-style-02"},
+        { "title": "Engagement FinOps et Green IT", "selector": "section.bg-very-light-gray .row.justify-content-center"},
+        { "title": "Modèle financier HaaS", "selector": "section:nth-of-type(4) .row.align-items-center"},
+        { "title": "Parlons de votre application métier", "selector": "section:nth-of-type(4) .row.align-items-center.mt-6"}
+    ]
+  },
+  {
+    "page": "demo-it-business-services-details-migrate.html",
+    "mappings": [
+        { "title": "Une transition maîtrisée vers le Cloud Azure", "selector": "section.cover-background .page-title-extra-large"},
+        { "title": "Nos Approches de Migration", "selector": "section.pt-3 .col-xl-5.offset-xl-1"},
+        { "title": "Notre engagement FinOps", "selector": ".row.row-cols-1.row-cols-lg-3.row-cols-sm-2.align-items-center.justify-content-center.mt-5.xs-mt-7"},
+        { "title": "Engagement Green IT", "selector": "section:nth-of-type(4) .row.align-items-center"},
+        { "title": "Nos services inclus", "selector": "#accordion-style-02"},
+        { "title": "Exemples de projets réussis", "selector": "section.bg-very-light-gray.overlap-height"},
+        { "title": "Parlons de votre migration vers Azure", "selector": ".row.align-items-center.mt-6"}
+    ]
+  },
+  {
+    "page": "demo-it-business-case-studies.html",
+    "mappings": [
+      { "title": "Pourquoi deux formules ?", "selector": "section.position-relative.pt-0" },
+      { "title": "Besoin d’aide pour choisir ?", "selector": "section.cover-background" }
+    ]
+  },
+  {
+    "page": "demo-it-business-services-details-ia.html",
+    "mappings": [
+        { "title": "Donnez de l'intelligence à vos processus métier", "selector": "section.cover-background .page-title-extra-large"},
+        { "title": "Ce que l'IA peut apporter à votre entreprise", "selector": ".row.row-cols-1.row-cols-lg-4.row-cols-sm-2.justify-content-center"},
+        { "title": "Nos compétences IA au service de vos projets", "selector": ".row.row-cols-1.row-cols-lg-3.row-cols-sm-2.align-items-center.justify-content-center.mt-5.xs-mt-7"},
+        { "title": "IA embarquée dans vos applications métier", "selector": "section:nth-of-type(4)"},
+        { "title": "Quelques cas concrets", "selector": "section.bg-very-light-gray.overlap-height .row.justify-content-center.mb-4"},
+        { "title": "Envie de tester le potentiel de l’IA dans votre activité ?", "selector": "section.bg-very-light-gray.overlap-height + section"}
+    ]
+  },
+    {
+    "page": "demo-it-business-services-details-power-bi.html",
+    "mappings": [
+        { "title": "Transformez vos données en décisions éclairées", "selector": "section.cover-background .page-title-extra-large"},
+        { "title": "Pourquoi choisir Power BI avec Hawaii ?", "selector": "section.pt-3 .col-xl-5.offset-xl-1"},
+        { "title": "Nos prestations autour de la data", "selector": ".row.row-cols-1.row-cols-lg-3.row-cols-sm-2.align-items-center.justify-content-center.mt-5.xs-mt-7"},
+        { "title": "Intégration dans votre écosystème Microsoft", "selector": ".row.align-items-center.justify-content-center.mb-7.sm-mb-40px"},
+        { "title": "Cas d’usage réels", "selector": ".row.row-cols-1.row-cols-lg-3.row-cols-md-2.justify-content-center.mb-8"},
+        { "title": "Une data responsable et maîtrisée", "selector": ".row.align-items-center.mt-8.sm-mt-40px"},
+        { "title": "Envie de piloter votre entreprise avec clarté ?", "selector": ".row.align-items-center.text-center.text-md-start.mt-6"}
+    ]
+  },
+  {
+    "page": "demo-it-business-services-details-power-platform.html",
+    "mappings": [
+        { "title": "Libérez l’agilité de vos équipes métier", "selector": "section.cover-background .page-title-extra-large"},
+        { "title": "Les 4 piliers de Power Platform", "selector": "section:nth-of-type(2) .row.justify-content-center"},
+        { "title": "Ce que nous apportons", "selector": ".row.row-cols-1.row-cols-lg-4.row-cols-sm-2.justify-content-center"},
+        { "title": "Cas concrets", "selector": "section.bg-very-light-gray.overlap-height"},
+        { "title": "Une transformation utile, sobre et maîtrisée", "selector": "section.bg-very-light-gray.overlap-height + section"},
+        { "title": "Une idée d’application ? Un processus à automatiser ?", "selector": ".row.align-items-center.mt-6"}
+    ]
+  },
+  {
+    "page": "demo-it-business-services-details-ux.html",
+    "mappings": [
+        { "title": "Des interfaces pensées pour l’utilisateur", "selector": "section.cover-background .page-title-extra-large"},
+        { "title": "Notre approche UX/UI", "selector": "section.pt-3 .col-xl-5.offset-xl-1"},
+        { "title": "Ce que nous livrons", "selector": ".row.row-cols-1.row-cols-lg-4.row-cols-sm-2.justify-content-center"},
+        { "title": "Un design utile, sobre et durable", "selector": "section:nth-of-type(4) .row.align-items-center.justify-content-center"},
+        { "title": "Prêt à concevoir une application que vos utilisateurs vont adorer ?", "selector": ".row.align-items-center.text-center.text-md-start.mt-6"}
+    ]
+  },
+  {
+    "page": "demo-it-business-services-details-agile.html",
+    "mappings": []
+  },
+  {
+    "page": "demo-it-business-services-details-run.html",
+    "mappings": []
+  },
+  {
+    "page": "demo-it-business-blog.html",
+    "mappings": [
+      {
+        "title": "❓ FAQ – Questions fréquentes",
+        "selector": "section.page-title-big-typography"
+      }
+    ]
+  }
+]
