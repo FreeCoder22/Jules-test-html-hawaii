@@ -1,0 +1,278 @@
+{
+    "demo-it-business.html": [
+        {
+            "title": "Hero (Banner)",
+            "content": "Votre avenir digital commence ici\nHawaii accompagne les PME dans la création d'applications métier intelligentes, évolutives et parfaitement intégrées à Microsoft Azure. De l'idée au déploiement, nous mettons l'innovation à votre portée.\n[Découvrez nos expertises] |   [Contactez-nous]"
+        },
+        {
+            "title": "À propos – Notre promesse",
+            "content": "Un partenaire technologique fiable depuis 2010\nSpécialistes du développement sur-mesure, de la migration vers Azure et de l'intégration de l'IA, nous vous aidons à tirer parti de la puissance du Cloud Microsoft avec sérénité.\nExpertise Azure reconnue (Partenaire Microsoft)\nOrientation résultats : nous livrons des solutions fonctionnelles et à forte valeur métier\nAccompagnement humain : proximité, réactivité et pédagogie\nEngagement Green IT : nous veillons à réduire l’impact environnemental de votre infrastructure IT\n[En savoir plus]"
+        },
+        {
+            "title": "Nos Expertises",
+            "content": "Développement & Azure (HaaS)\nApplications métier sur-mesure, hébergées sur Azure en mode HaaS (Hawaii as a Service).\nMigration & Infrastructure Azure\nMigration 1 pour 1 : Transférez facilement vos infrastructures actuelles vers Azure.\nRefonte PaaS : Profitez pleinement des avantages du Cloud Azure avec une architecture optimisée en PaaS.\nCréation d'infrastructure Azure : Conception et déploiement d'infrastructures cloud robustes, sécurisées et évolutives adaptées à vos besoins.\nFinOps : Optimisation proactive et continue de vos coûts cloud pour maximiser votre ROI.\nIA & Innovation\nIntégrer l’intelligence artificielle pour automatiser et optimiser vos processus métier.\nData & Power BI\nVisualisez, analysez et exploitez efficacement vos données métier grâce à Power BI. Transformez vos données en informations stratégiques pour piloter efficacement votre activité.\nCybersécurité\nProtégez efficacement votre entreprise grâce aux solutions de sécurité avancées de Microsoft : Defender, Sentinel, et Microsoft Entra. Sécurisez vos données, vos utilisateurs et vos applications dans Azure.\nPower Platform\nAccélérez votre transformation digitale avec Microsoft Power Platform (Power Apps, Power Automate, Power BI, Power Virtual Agents). Créez rapidement des solutions métiers sur mesure.   [Découvrir toutes nos expertises]"
+        },
+        {
+            "title": "Méthodologie éprouvée",
+            "content": "Une démarche claire, simple et efficace en 4 étapes :\nAnalyse métier (compréhension profonde des enjeux)\nConception UX/UI (applications intuitives et agréables)\nDéveloppement Agile (qualité, évolutivité, robustesse)\nDéploiement & Run (sécurité, supervision et support continu)\n[Découvrir notre méthodologie]"
+        },
+        {
+            "title": "Réalisations clients",
+            "content": "Découvrez comment nous avons aidé des PME à transformer leur quotidien grâce à des applications métier modernes et puissantes sur Azure.\n[Voir nos réalisations]"
+        },
+        {
+            "title": "Témoignages",
+            "content": "Ils nous font confiance : ce que disent nos clients de notre accompagnement.   [Lire les témoignages]"
+        },
+        {
+            "title": "Contactez-nous",
+            "content": "Prêt à démarrer votre projet ou simplement curieux d’en savoir plus ?\n[Prenez rendez-vous dès maintenant]"
+        }
+    ],
+    "demo-it-business-about.html": [
+        {
+            "title": "Pourquoi nous faire confiance ?",
+            "content": "Chez Hawaii, nous croyons que la technologie doit être un levier puissant au service de vos ambitions métier. Notre engagement est simple : vous permettre de bénéficier des meilleures technologies Microsoft Azure pour accélérer votre croissance et renforcer votre compétitivité."
+        },
+        {
+            "title": "Trois engagements clés",
+            "content": "Expertise & maîtrise technologique\nEn tant que partenaire officiel de Microsoft depuis 2010, nous disposons d'une expertise certifiée et constamment actualisée. Notre équipe d’experts en développement .NET, Azure et Intelligence Artificielle assure un haut niveau de qualité et d’efficacité à chaque étape de votre projet.\nInnovation pragmatique\nL'innovation doit servir un objectif précis : le vôtre. Nous intégrons des technologies avancées telles que l’IA et la Data de manière pertinente, pragmatique et parfaitement alignée avec vos besoins opérationnels.\nProximité & accompagnement humain\nNous privilégions des relations solides, humaines et transparentes avec chacun de nos clients. Chaque projet bénéficie d’un accompagnement personnalisé et d’un suivi rapproché, pour vous garantir une tranquillité d'esprit totale."
+        },
+        {
+            "title": "Notre engagement Green IT",
+            "content": "Hawaii s’engage activement pour un numérique plus responsable et durable. Nous intégrons systématiquement une réflexion autour de l’impact environnemental dans nos choix techniques et nos architectures Cloud, afin de réduire l’empreinte écologique de vos infrastructures."
+        },
+        {
+            "title": "Ce que cela signifie pour vous",
+            "content": "Tranquillité d’esprit : Des solutions robustes, sécurisées et évolutives\nGain de temps : Une prise en main rapide grâce à une conception UX intuitive\nPerformance métier : Des outils qui accélèrent et optimisent vos processus\nMaîtrise budgétaire : Des coûts transparents et optimisés (approche FinOps)"
+        },
+        {
+            "title": "Parlons de votre projet",
+            "content": "Vous avez un projet ? Une idée ? Une problématique ?\nContactez-nous dès aujourd'hui pour échanger ensemble et découvrir comment Hawaii peut vous accompagner vers une réussite technologique et métier durable.\n[Nous contacter]"
+        }
+    ],
+    "demo-it-business-services-details-dev-azure.html": [
+        {
+            "title": "Applications métier sur-mesure, conçues pour vous",
+            "content": "Chez Hawaii, nous créons des applications métiers sur-mesure parfaitement adaptées à votre activité. Grâce à notre modèle innovant HaaS (Hawaii as a Service), profitez d'une solution touten-un intégrant conception, développement, hébergement et suivi continu sur Microsoft Azure."
+        },
+        {
+            "title": "Pourquoi choisir HaaS ?",
+            "content": "Conçu exactement pour votre métier\nChaque application est entièrement développée selon vos processus, vos attentes et vos objectifs stratégiques. Nous privilégions une approche UX/UI soignée, intuitive et centrée sur l’utilisateur.\nHébergement Azure fiable et sécurisé\nVotre solution est hébergée sur Azure, la plateforme Cloud de Microsoft mondialement reconnue pour sa robustesse, sa flexibilité et ses performances. Nous privilégions les services PaaS pour garantir scalabilité et simplicité de gestion.\nAccompagnement complet de bout en bout\nDe l’idée initiale jusqu’au déploiement en production, nous assurons un suivi complet avec une gestion agile des développements, des livraisons régulières et un support continu."
+        },
+        {
+            "title": "Nos services inclus :",
+            "content": "Conception UX/UI adaptée et ergonomique\nDéveloppement agile (méthodologie Scrum)\nArchitecture PaaS Azure (sécurité, scalabilité, disponibilité)\nCI/CD automatisé avec Azure DevOps\nMonitoring et maintenance proactive\nSupport technique et fonctionnel dédié"
+        },
+        {
+            "title": "Engagement FinOps et Green IT",
+            "content": "Notre approche HaaS intègre systématiquement des principes de FinOps pour optimiser vos coûts Cloud, et de Green IT pour minimiser l'impact environnemental de votre solution numérique.\nQuelques exemples d'applications réalisées :\nPlateforme de gestion RH automatisée avec intégration de l'IA\nApplication mobile métier pour équipes terrain\nTableaux de bord interactifs avec Power BI intégrés à Azure"
+        },
+        {
+            "title": "Modèle financier HaaS",
+            "content": "Forfait projet\nNous réalisons votre application sur‑mesure au forfait (cadrage, UX, développement, mise en production).\nAbonnement Run\nUne fois l’application en ligne, vous bénéficiez d’un abonnement mensuel qui couvre :\nHébergement PaaS Azure, supervision et sauvegardes\nSupport correctif & petites évolutions (TMA)\nOptimisation continue FinOps / Green IT\nSLA adaptés à votre activité\n> **Avantage :** budgétisation simple et sérénité — vous concentrez vos équipes sur le métier, nous gérons la technique."
+        },
+        {
+            "title": "Parlons de votre application métier",
+            "content": "Vous avez un besoin précis ou un projet à étudier ?\nContactez-nous dès aujourd'hui pour échanger ensemble sur la meilleure solution métier surmesure pour votre entreprise.\n[Nous contacter]"
+        }
+    ],
+    "demo-it-business-services-details-migrate.html": [
+        {
+            "title": "Une transition maîtrisée vers le Cloud Azure",
+            "content": "Passer au Cloud Azure est une étape stratégique qui doit être maîtrisée de bout en bout. Chez Hawaii, nous comprenons les enjeux d'une migration réussie et mettons tout en œuvre pour vous offrir une transition en douceur, sécurisée et totalement alignée avec vos objectifs métier."
+        },
+        {
+            "title": "Nos Approches de Migration",
+            "content": "Migration 1 pour 1 (« Lift and Shift »)\nVous souhaitez déplacer rapidement vos infrastructures existantes vers Azure sans modification majeure ? Notre approche « Lift and Shift » vous permet une transition rapide tout en limitant les risques d'interruption de service.\nAnalyse préalable approfondie de vos infrastructures existantes\nPlanification précise des opérations de migration\nTransfert sécurisé et efficace vers Azure\nRefonte en Architecture PaaS\nVous cherchez à tirer pleinement profit des avantages du Cloud ? Nous vous accompagnons dans une refonte complète de vos systèmes vers des architectures PaaS (Platform-as-a-Service) modernes, scalables et hautement disponibles.\nÉvaluation complète des bénéfices et opportunités offertes par Azure\nConception d'architectures Cloud optimisées pour performance et coût\nMise en œuvre sécurisée avec un minimum d'interruption\nCréation d'Infrastructure Azure\nVous démarrez un nouveau projet ou une nouvelle activité ? Hawaii vous accompagne dès le départ pour créer une infrastructure Azure robuste, sécurisée, évolutive et optimisée selon vos besoins spécifiques.\nDesign personnalisé et sur-mesure selon votre activité\nDéploiement rapide et fiable sur Azure\nIntégration complète avec vos systèmes et applications existantes"
+        },
+        {
+            "title": "Notre engagement FinOps",
+            "content": "Chez Hawaii, l’optimisation financière fait partie intégrante de notre approche. Nous vous aidons à gérer efficacement vos coûts cloud (FinOps) pour maximiser votre ROI et éviter les mauvaises surprises budgétaires.\nAudit et suivi régulier de vos dépenses cloud\nRecommandations proactives pour optimiser votre consommation\nFormation et accompagnement continu pour une maîtrise budgétaire optimale"
+        },
+        {
+            "title": "Engagement Green IT",
+            "content": "Nous plaçons au cœur de chaque projet une démarche écoresponsable en intégrant les meilleures pratiques Green IT pour réduire votre empreinte environnementale.\nChoix d’infrastructures éco-efficientes\nOptimisation des ressources et réduction des gaspillages\nAccompagnement à long terme vers des pratiques numériques durables"
+        },
+        {
+            "title": "Nos services inclus",
+            "content": "Audit technique et fonctionnel complet\nStratégie de migration et planning détaillé\nProof of Concept ou Pilote\nMigration et validation rigoureuse de vos environnements\nOptimisation continue des performances et coûts\nSupport dédié post-migration"
+        },
+        {
+            "title": "Exemples de projets réussis",
+            "content": "Migration complète d'un ERP industriel vers Azure\nRefonte d'une architecture applicative vieillissante vers Azure PaaS\nMise en place d'une infrastructure Azure complète pour une startup SaaS"
+        },
+        {
+            "title": "Parlons de votre migration vers Azure",
+            "content": "Vous souhaitez migrer vers Azure en toute sérénité ? Contactez-nous dès aujourd'hui et discutons ensemble de votre projet.\n[Nous contacter]"
+        }
+    ],
+    "demo-it-business-case-studies.html": [
+        {
+            "title": "Pourquoi deux formules ?",
+            "content": "Basic \tPremium\nSolution économique pour \tPour les entreprises qui ont besoin d’une gouvernance\ndémarrer : ticketing, facturation et \tcloud avancée, d’un interlocuteur dédié, de SLA et de suivi coûts. \tsupport applicatif."
+        },
+        {
+            "title": "Besoin d’aide pour choisir ?",
+            "content": "Parlons budget, volumétrie et besoins de support — nous trouverons la formule adaptée.\n[Demander un devis personnalisé]"
+        }
+    ],
+    "demo-it-business-services-details-ia.html": [
+        {
+            "title": "Donnez de l'intelligence à vos processus métier",
+            "content": "L’Intelligence Artificielle est aujourd’hui un levier majeur de performance pour les entreprises. Chez Hawaii, nous intégrons l’IA de manière pragmatique et sur-mesure dans vos applications métier pour automatiser, prédire, personnaliser, et améliorer vos décisions au quotidien. Notre mission : faire de l’IA un moteur de valeur concrète pour vos utilisateurs et votre business."
+        },
+        {
+            "title": "Ce que l'IA peut apporter à votre entreprise",
+            "content": "Automatiser les tâches chronophages\nLibérez du temps pour vos équipes en automatisant les processus répétitifs : traitement de documents, saisie de données, génération de contenu, service client via chatbot, etc.\nAméliorer la prise de décision\nAnticipez les tendances et prenez de meilleures décisions grâce à l'analyse prédictive, au scoring ou à la détection d’anomalies.\nPersonnaliser l’expérience utilisateur\nAdaptez vos interfaces, vos recommandations ou vos parcours clients à chaque utilisateur pour maximiser leur engagement et leur satisfaction.\nRenforcer l'efficacité opérationnelle\nExploitez vos données métiers en temps réel pour optimiser vos ressources, vos délais ou vos coûts."
+        },
+        {
+            "title": "Nos compétences IA au service de vos projets",
+            "content": "Intégration de modèles GPT / Azure OpenAI (chatbots, assistants intelligents, résumés, génération de texte)\nAzure Machine Learning (modélisation, évaluation, déploiement et monitoring de modèles prédictifs)\nCognitive Services Microsoft (vision par ordinateur, reconnaissance vocale, compréhension du langage)\nCustom AI : Utilisation de modèles sur-mesure basés sur vos données et vos enjeux (Mistral AI, OpenAI, Grok, Llama, …etc)"
+        },
+        {
+            "title": "IA embarquée dans vos applications métier",
+            "content": "Nos solutions IA sont toujours pensées en lien direct avec vos outils existants et vos utilisateurs :\nIntégration fluide dans vos portails, extranets ou CRM\nAccessibles via API REST, widgets ou composants front\nInteropérabilité avec Microsoft 365, Teams, SharePoint ou Dynamics\nUne IA responsable et maîtrisée\nChez Hawaii, nous adoptons une approche éthique et responsable de l’IA. Transparence, sécurité des données et explicabilité des modèles sont intégrés à notre démarche dès la conception.\nNous vous accompagnons également dans la sensibilisation des équipes, la gouvernance de la donnée et le cadre d’usage des solutions déployées."
+        },
+        {
+            "title": "Quelques cas concrets",
+            "content": "Assistant IA pour support client automatisé (intégration GPT + SharePoint)\nPrédiction de ventes via apprentissage supervisé (Azure ML)\nOCR intelligent pour extraire des données de devis, factures ou contrats"
+        },
+        {
+            "title": "Envie de tester le potentiel de l’IA dans votre activité ?",
+            "content": "Contactez-nous dès aujourd’hui pour un premier atelier d’idéation ou une démonstration.\n[Nous contacter]"
+        }
+    ],
+    "demo-it-business-services-details-power-bi.html": [
+        {
+            "title": "Transformez vos données en décisions éclairées",
+            "content": "Chez Hawaii, nous vous aidons à valoriser pleinement vos données métiers en les rendant lisibles, accessibles et surtout utiles à la prise de décision. Grâce à Power BI et à notre expertise en structuration de données, nous mettons en place des tableaux de bord dynamiques, personnalisés et orientés action.\nNotre objectif : vous permettre de piloter votre activité en temps réel et de manière autonome, tout en garantissant fiabilité et performance."
+        },
+        {
+            "title": "Pourquoi choisir Power BI avec Hawaii ?",
+            "content": "Vision unifiée de vos données\nNous connectons vos multiples sources (ERP, CRM, Excel, SQL, APIs) pour centraliser l’information et offrir une vue globale, claire et instantanée de votre activité.\nTableaux de bord sur-mesure\nChaque dashboard est pensé pour répondre à vos enjeux métiers : suivi commercial, pilotage financier, indicateurs RH, production, support client, etc.\nAccessibilité et mobilité\nVos tableaux de bord sont consultables depuis n’importe quel support : PC, tablette, mobile. Ils sont 100 % responsives et intégrables à vos outils Microsoft (Teams, SharePoint, Outlook)."
+        },
+        {
+            "title": "Nos prestations autour de la data",
+            "content": "Audit et cartographie de vos données actuelles • Modélisation et normalisation des données (Power Query, DAX) • Création de rapports interactifs et automatisés • Mise en place d’un modèle de gouvernance (accès, droits, qualité de données) • Accompagnement et transfert de compétences à vos équipes"
+        },
+        {
+            "title": "Intégration dans votre écosystème Microsoft",
+            "content": "Nous intégrons Power BI de manière fluide dans votre environnement existant : • Publication sur Power BI Service avec actualisation planifiée • Power BI Embedded via Azure pour insérer vos rapports directement dans vos applications ou portails clients, avec sécurité et authentification unifiées • Embedding dans SharePoint Online ou Teams • Intégration avec Power Platform : automatisation, applications, agents virtuels"
+        },
+        {
+            "title": "Cas d’usage réels",
+            "content": "Suivi des performances commerciales multi-agences • Analyse du taux de transformation des leads en CRM • Visualisation temps réel de la production et des SLA support"
+        },
+        {
+            "title": "Une data responsable et maîtrisée",
+            "content": "Nous appliquons une approche éthique et durable à la gestion des données : • Stockage optimisé (impact environnemental réduit) • Sécurité renforcée des accès et de la confidentialité • Valorisation des données utiles, suppression des silos"
+        },
+        {
+            "title": "Envie de piloter votre entreprise avec clarté ?",
+            "content": "Discutons ensemble de vos objectifs et mettons en place un premier tableau de bord adapté à vos besoins.\n[Contactez-nous]"
+        }
+    ],
+    "demo-it-business-services-details-power-platform.html": [
+        {
+            "title": "Libérez l’agilité de vos équipes métier",
+            "content": "Avec Power Platform, Microsoft a ouvert un monde de possibilités pour automatiser, digitaliser et connecter vos processus métier — sans dépendre systématiquement du développement traditionnel. Chez Hawaii, nous vous aidons à concevoir des solutions puissantes, utiles et évolutives, directement entre les mains de vos utilisateurs métier.\nNotre approche : transformer vos idées terrain en applications concrètes, efficaces et sécurisées."
+        },
+        {
+            "title": "Les 4 piliers de Power Platform",
+            "content": "Power Apps\nCréez des applications professionnelles sans code ou low-code pour répondre rapidement à un besoin métier.\nInterfaces responsives et intégration native M365\nConnecteurs prêts à l’emploi (SharePoint, Dataverse, SQL…)\nVersion mobile et web instantanément disponible\nPower Automate\nAutomatisez vos processus répétitifs en quelques clics.\nNotifications automatiques, synchronisation de données\nDéclencheurs simples ou complexes\nIntégration directe avec vos apps métiers\nPower BI\nVisualisez vos données métier dans des tableaux de bord interactifs.\nAnalyse décisionnelle et insights en temps réel\nPartage sécurisé dans M365 ou Teams\nPower Virtual Agents\nDéployez des chatbots intelligents sans ligne de code.\nAccueil client, FAQ, helpdesk interne\nConnecté à vos données et outils"
+        },
+        {
+            "title": "Ce que nous apportons",
+            "content": "Co-construction d’apps avec vos utilisateurs\nStructuration des données (Dataverse, connecteurs personnalisés)\nDéploiement sécurisé via Azure AD et M365\nGouvernance et centre d’excellence Power Platform\nFormation et acculturation des équipes métiers"
+        },
+        {
+            "title": "Cas concrets",
+            "content": "Application de suivi terrain pour techniciens\nAutomatisation des demandes RH internes\nChatbot d’onboarding pour nouveaux collaborateurs"
+        },
+        {
+            "title": "Une transformation utile, sobre et maîtrisée",
+            "content": "Power Platform permet une adoption progressive, sans alourdir votre dette technique. Associée à notre démarche Green IT, elle devient un levier d'efficacité numérique responsable."
+        },
+        {
+            "title": "Une idée d’application ? Un processus à automatiser ?",
+            "content": "Discutons de vos enjeux et lançons rapidement une preuve de concept.\n[Parlez à un expert]"
+        }
+    ],
+    "demo-it-business-services-details-ux.html": [
+        {
+            "title": "Des interfaces pensées pour l’utilisateur",
+            "content": "Chez Hawaii, nous plaçons l’expérience utilisateur (UX) au centre de la conception de vos applications métier. Une interface bien pensée, fluide et intuitive garantit l’adoption, la satisfaction des utilisateurs et la performance globale de votre outil.\nNotre objectif : faire en sorte que chaque interaction avec votre solution soit simple, naturelle et efficace."
+        },
+        {
+            "title": "Notre approche UX/UI",
+            "content": "Co-conception avec vos utilisateurs clés\nNous impliquons les utilisateurs finaux dans des ateliers de conception afin de comprendre leurs usages, leurs contraintes et leurs attentes.\nPersona & parcours utilisateur\nWireframes basse fidélité collaboratifs\nRecueil de feedbacks rapides\nMaquettage moderne & responsive\nNous utilisons des outils comme Figma pour produire des maquettes interactives, proches du rendu final, intégrant les codes visuels modernes (design system, accessibilité, adaptabilité).\nInterfaces desktop, tablette et mobile\nComposants réutilisables & standardisés\nRespect de votre identité graphique ou proposition de charte dédiée\nTests utilisateurs et itérations\nNous validons nos choix de design avec vos utilisateurs avant le développement. Des tests ciblés permettent d’identifier les points de friction éventuels et d’ajuster en amont.\nTests sur prototype interactif\nScénarios de navigation typiques\nIntégration continue des retours"
+        },
+        {
+            "title": "Ce que nous livrons",
+            "content": "Wireframes et maquettes Figma (mobile + desktop)\nPrototype navigable à valider\nDocumentation UI (couleurs, typographies, composants)\nBibliothèque de composants prête à être intégrée"
+        },
+        {
+            "title": "Un design utile, sobre et durable",
+            "content": "Nous concevons des interfaces qui vont à l’essentiel : pas de surcharge graphique, des composants éco-conçus, et une accessibilité renforcée pour tous les profils d’utilisateurs."
+        },
+        {
+            "title": "Prêt à concevoir une application que vos utilisateurs vont adorer ?",
+            "content": "Planifions un atelier de conception UX ensemble.\n[Nous contacter]"
+        }
+    ],
+    "demo-it-business-services-details-agile.html": [
+        {
+            "title": "Du code de qualité, livré vite et bien",
+            "content": "Notre philosophie de développement s’appuie sur les principes de l’Agile : itérations courtes, feedback continu, et priorité à la valeur métier. Grâce à une stack Microsoft moderne (.NET 6/7, React, Azure PaaS) et à des pratiques d’ingénierie rigoureuses, nous livrons des solutions robustes, maintenables et évolutives."
+        },
+        {
+            "title": "Notre processus Agile en pratique",
+            "content": "Sprint Planning & backlog clair\nNous découpons votre projet en fonctionnalités prioritaires inscrites dans un backlog affiné avec vous. Chaque sprint (2 semaines) vise un incrément fonctionnel tangible.\nDéveloppement craft & CI/CD\nPair/Mob Programming sur les parties critiques\nRevue de code systématique\nTests unitaires, d’intégration et e2e\nCI/CD Azure DevOps : build, tests, déploiements automatisés\nDémonstration et feedback utilisateur\nÀ la fin de chaque sprint, nous présentons un livrable opérationnel. Vos retours sont immédiatement intégrés au sprint suivant pour garantir l’alignement permanent avec vos besoins.\nRétrospective & amélioration continue\nNous analysons ce qui a bien (ou moins bien) fonctionné pour optimiser en continu nos process, notre communication et la qualité du produit."
+        },
+        {
+            "title": "Outils & technologies clés",
+            "content": "Back-end : .NET 6/7, C#, EF Core, Azure Functions\nFront-end : React 18, Tailwind CSS/Chakra UI\nInfrastructure : Azure App Service, Azure SQL, Blob, Key Vault\nQualité : SonarCloud, Playwright, Cypress\nDevOps : Azure DevOps Pipelines, Bicep/Terraform pour l’Infra as Code"
+        },
+        {
+            "title": "Qualité & responsabilité",
+            "content": "Green coding : optimisation des ressources, code sobre\nFinOps by design : chaque pipeline mesure l’impact coûts/CO₂\nSécurité DevSecOps : scan dépendances, secrets, vulnérabilités"
+        },
+        {
+            "title": "Résultats concrets pour vous",
+            "content": "Mise en production plus rapide (incréments bi-hebdo)\nAdaptation permanente aux retours métier\nCode fiable, documenté et testable\nScalabilité automatique sur Azure"
+        },
+        {
+            "title": "Discutons de votre backlog !",
+            "content": "Vous avez déjà une liste de fonctionnalités ou simplement une idée à explorer ? Contactez nos équipes pour lancer un premier sprint de cadrage.\n[Contactez-nous]"
+        }
+    ],
+    "demo-it-business-services-details-run.html": [
+        {
+            "title": "Une mise en production maîtrisée, un service qui tourne 24 / 7",
+            "content": "Le succès d’une application ne se mesure pas uniquement le jour du \"go-live\" : il dépend de sa capacité à fonctionner en continu, à évoluer sans rupture et à rester optimisée en coûts comme en performances. Notre équipe Run assure ce cycle de vie complet sur Microsoft Azure."
+        },
+        {
+            "title": "Pipeline CI / CD entièrement automatisé",
+            "content": "Infrastructure as Code (IaC) : Bicep / Terraform pour des déploiements reproductibles\nPipelines Azure DevOps / GitHub Actions avec validations, tests automatisés et déploiement bleu-vert ou canary\nRollback instantané en cas d’anomalie"
+        },
+        {
+            "title": "Supervision, sécurité & conformité",
+            "content": "Azure Monitor + Application Insights : métriques, traces, alertes temps réel\nDashboards FinOps : suivi quotidien des coûts et de la consommation CO₂\nMicrosoft Defender for Cloud : analyse continue des vulnérabilités et posture sécurité\nBackups automatisés et tests réguliers de restauration"
+        },
+        {
+            "title": "Support proactif & évolutif",
+            "content": "### ✔ Centre de Services dédié Un point de contact unique pour vos demandes (incidents, évolutions, questions).\n### ✔ SLA adaptés à votre activité De la couverture 8×5 à 24×7, avec astreintes senior.\n### ✔ Gestion des petites évolutions (TMA) Nous intégrons vos demandes d’amélioration dans notre backlog Run pour garantir la pertinence et la fraîcheur fonctionnelle de votre solution."
+        },
+        {
+            "title": "Optimisation continue & Green IT",
+            "content": "Right-sizing automatique : ajustement des ressources (CPU, mémoire, stockage) selon la charge\nMise en veille programmable des environnements hors production\nRapports mensuels FinOps + empreinte carbone"
+        }
+    ],
+    "demo-it-business-blog.html": [
+        {
+            "title": "❓ FAQ – Questions fréquentes",
+            "content": "Qu’est-ce que le modèle HaaS ?\nHaaS (« Hawaii as a Service ») combine un forfait projet pour la conception & mise en production de votre application, puis un abonnement Run couvrant l’hébergement Azure, la supervision, le support et les petites évolutions. Vous concentrez vos équipes sur le métier, nous gérons la technique.\nQuelle différence entre les formules Basic et Premium ?\nBasic : ticketing Jira, suivi des coûts, 1 accès licence M365, frais fixes réduits.\nPremium : SLA, interlocuteur dédié, 2 accès support, options de paiement élargies, carnet d’heures dev & support applicatif.\nEst-ce que la consommation Azure est incluse dans le prix ?\nLa consommation est refacturée au coût réel (Pay-As-You-Go). Nos frais de gestion (10 % conso) couvrent la surveillance FinOps, la facturation simplifiée et l’optimisation continue.\nQuels délais pour un projet type ?\nAnalyse métier : 1–2 semaines\nConception UX/UI : 2–4 semaines\nDéveloppement Agile : 2–4 sprints (4–8 semaines) selon périmètre\nMise en prod : 1 semaine\n→ Une V1 est donc livrable en 8–12 semaines.\nQui possède le code source ?\nVous. Le dépôt Git (Azure DevOps ou GitHub) vous appartient. Nous fournissons toute la documentation pour assurer la réversibilité.\nComment gérez-vous la sécurité ?\nSécurité « by design » : DevSecOps, scan dépendances, secrets dans Key Vault, RBAC Entra ID, Defender & Sentinel activés. Les données restent dans votre tenant Azure.\nEt si notre trafic explose ?\nLes services PaaS (Web Apps, Functions, SQL) scalent automatiquement. Vous payez uniquement la consommation supplémentaire. Nous ajustons les quotas si nécessaire.\nAvez-vous une démarche FinOps / Green IT ?\nOui : droit-sizing automatique, environnements hors prod mis en veille, rapports mensuels CO₂ & coût. Objectif : – 20 % d’empreinte carbone la 1ʳᵉ année.\nPouvez-vous intégrer des outils non-Microsoft ?\nBien sur. Via APIs REST, connecteurs custom Power Platform ou micro-services, nous interfaçons Salesforce, SAP, AWS S3, ou n’importe quelle solution SaaS disposant d’une api..\nComment se passe le support au quotidien ?\nCréation de ticket dans Jira Service Desk • \tPriorisation : P1 (< 2h), P2 (< 8h), P3 (J+1)\nReporting mensuel sur SLA, coûts et roadmap évolutive.\nProposez-vous des formations ?\nOui : sessions Power BI, Power Apps, FinOps Azure, Sécurité Azure, prises en charge OPCO possibles.\nChecker formations BC (+Green IT)\nQuelle est votre zone d’intervention ?\nNous opérons à distance partout en France (et Europe). Présence physique possible à Paris et déplacements ponctuels sur site.\nComment démarrer ?\nUn simple rendez-vous (30 min) pour qualifier vos enjeux, puis un devis forfaitaire ou un sprint 0 : analyse + backlog + macro-planning.\n[Planifier un appel découverte]\n}\nRésultats obtenus chez nos clients\n99,95 % de disponibilité moyenne sur 12 mois\nRéduction de 27 % des coûts cloud après Optimisation FinOps\n0 incident majeur non résolu dans les SLA depuis 18 mois\nAssurez la sérénité de vos opérations\nConfiez-nous le Run de votre application ou de votre infrastructure Azure et concentrez-vous sur votre cœur de métier.\n[Discutons de votre contexte Run]\n🌟 Réalisations clients\nBloc \tContenu\nEn-tête  Titre accrocheur + court paragraphe qui explique pourquoi nos références sont pertinentes pour les PME.\nGrille de cas clients \tChaque carte = image, logo client (optionnel), description courte, (3 à 6 projets) \tpiles technos, résultats chiffrés.\nAppel à l’action \t Bouton « Discutons de votre projet » menant à /contact.\nContenu détaillé (exemple 3 projets)\nEn-tête\nNos clients, nos meilleures preuves\nDepuis 2010, nous avons accompagné plus de 80 PME dans leur transformation digitale, de la migration Azure à la création d’applications IA-first. Voici quelques exemples concrets. Projet 1 – Plateforme RH cloud + IA\nClient : Groupe RH – 200 collaborateurs\nContexte : entretiens annuels manuels, perte de temps.\nSolution : appli web .NET + React hébergée sur Azure App Service, base Azure SQL, authentification Entra ID. Assistant GPT pour générer les comptes-rendus.\nRésultats : ⏱ –40 % temps de traitement,   98 % taux d’adoption,   ROI < 6 mois. Projet 2 – Migration SI industriel vers Azure PaaS • \tClient : PME industrielle multi-sites (350 pers.)\nAvant : serveurs on-prem & GCP hétérogènes.\nActions : Lift-and-Shift VMs → Azure, refonte PaaS : Web Apps, Functions, Azure SQL. Mise en place de Sentinel + Defender. FinOps : –30 % coûts infra l’année suivante.\nRésultats :   99,95 % dispo,   conformité ISO 27001 conservée. Projet 3 – Dashboards Power BI temps réel\nClient : Scale-up e-commerce (80 pers.)\nObjectif : vision temps réel CA, stock, marketing.\nSolution : Azure Synapse + Power BI Embedded, automatisation Power Automate.\nRésultats :   décisions quotidiennes data-driven, ⏱ reporting passé de 2 jours à instantané.\nCTA final\nVous voulez faire partie de la success-story ?   Discutons de votre projet\n📢 Témoignages – Ils nous font confiance\nPourquoi mieux que nos mots ? Ceux de nos clients.\nDepuis 2010, nous accompagnons des PME ambitieuses qui cherchent à tirer le meilleur de Microsoft Azure, de l’IA et de la Power Platform. Voici quelques retours d’expérience authentiques.\nClaire M. – Directrice RH, Groupe Talentos (200 collaborateurs)\n« Grâce à la plateforme RH développée par Hawaii, nous avons réduit de 40 % le temps consacré aux entretiens annuels. L’assistant IA génère des synthèses claires et nos managers sont ravis. L’équipe Hawaii a été à l’écoute, réactive et professionnelle du cadrage jusqu’au Run. »\nPoints clés\nMise en production : 4 mois\nTaux d’adoption : 98 %\nROI atteint en : < 6 mois\nJulien B. – CTO, IndusTech (PME industrielle, 350 pers.)\n« Nous redoutions notre migration vers Azure, Hawaii a transformé ce projet en succès : 0 interruption, 30 % d’économies cloud la 1ᵉʳ année et un système désormais 100 % PaaS. Leur démarche FinOps et Green IT est un vrai plus. » Points clés\nCoûts infra : –30 %\nDisponibilité : 99,95 %\nConformité ISO 27001 maintenue\nSonia L. – COO, ShopNow (scale-up e-commerce)\n« Avec les dashboards Power BI mis en place par Hawaii, nous suivons nos ventes et stocks en temps réel. Les décisions marketing se prennent sur la base de données fiables et actualisées, c’est un changement de culture ! » Points clés\nReporting : de 2 jours ➜ instantané\nIntégration : Synapse + Power BI Embedded\nSatisfaction équipes : 4,8 / 5\nVous voulez en savoir plus ?\nNous pouvons organiser un retour d’expérience direct avec l’un de nos clients pour répondre à vos questions.\n[Planifier un échange]\nA qui demander: Trajeo’h et Artecomm (App métier - SP – Web App) / Hôtels Bourgogne\n(Dashboard Compta - Power BI / Lisi Aérospatial (SP – Projet UX/UI- Régie) / RapidVisa (Web\nApp & IA ) / FFG (Mobil App) / Sterenn (Site Web ecommerce sous Azure) /  Auditis / Axxes / SIMCO (INEDI) / Step Consulting"
+        }
+    ]
+}
