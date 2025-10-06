@@ -45,6 +45,8 @@ Table of contents
 ====================================== */
 :root {
   --base-color: #68EABA;
+  --base-color-secondary: #4F6AC3;
+  --base-color-tenary: #FFDB52;
   --white: #ffffff;
   --black: #000000;
   --red: #dc3131;
@@ -81,6 +83,13 @@ Table of contents
   --camarone: #20642b;
   --seal-brown: #0e0708;
   --Wasabi: #8ea63a;
+}
+
+/* ===================================
+    Custom css
+====================================== */
+.bg-midnight-blue {
+    background-color: var(--base-color);
 }
 /* ===================================
     03. Reset
@@ -19621,3 +19630,5 @@ footer .footer-navbar .nav-item:last-child a {
 .footer-demo img {
   max-height: 55px !important;
 }
+
+
