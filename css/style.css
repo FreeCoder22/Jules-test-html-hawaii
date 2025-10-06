@@ -44,7 +44,7 @@ Table of contents
     02. CSS color variable
 ====================================== */
 :root {
-  --base-color: #2946f3;
+  --base-color: #68EABA;
   --white: #ffffff;
   --black: #000000;
   --red: #dc3131;
@@ -10518,6 +10518,15 @@ blockquote footer {
   border-color: var(--black);
   color: var(--black);
 }
+.btn.btn-primary {
+  background-color: var(--base-color);
+  color: var(--white);
+}
+.btn.btn-primary:hover {
+  background-color: var(--white);
+  color: var(--base-color);
+  border-color: var(--base-color);
+}
 .btn.btn-white {
   background-color: var(--white);
   color: var(--dark-gray);
@@ -10941,17 +10950,17 @@ blockquote footer {
   color: var(--white);
 }
 .btn-gradient-purple-pink {
-  background-image: linear-gradient(to right, #8b14b1, #d53d6e, #8b14b1);
+  background-image: linear-gradient(to right, #68EABA, #829DF6, #68EABA);
   background-size: 200% auto;
   color: var(--white);
 }
 .btn-gradient-fast-pink-light-yellow {
-  background-image: linear-gradient(to right, #f7567f, #ffba83, #f7567f);
+  background-image: linear-gradient(to right, #68EABA, #6B93F0, #68EABA);
   background-size: 200% auto;
   color: var(--white);
 }
 .btn-gradient-pink-orange {
-  background-image: linear-gradient(to right, #de347f, #ef5f43, #de347f);
+  background-image: linear-gradient(to right, #68EABA, #7089E8, #68EABA);
   background-size: 200% auto;
   color: var(--white);
 }
@@ -10977,6 +10986,15 @@ blockquote footer {
 .btn-dual .btn.btn-link, .btn-dual .btn.btn-underline, .btn-dual .btn.btn-zoom, .btn-dual .btn.btn-link-gradient {
   margin-left: 30px;
   margin-right: 30px;
+}
+.bg-gradient-very-light-gray-transparent {
+    background: -webkit-linear-gradient(right, rgb(104, 234, 186), rgba(255, 255, 255, 0.0)); 
+    background: linear-gradient(to right,rgb(193, 255, 232) , rgba(255, 255, 255, 0.0));
+}
+
+.bg-gradient-dark-gray-transparent {
+    background: -webkit-linear-gradient(right, rgba(24, 25, 28, .5), rgba(255, 255, 255, 0.0));
+    background: linear-gradient(to right, rgba(24, 25, 28, .5), rgba(255, 255, 255, 0.0));
 }
 /* Blog button */
 .categories-btn {
